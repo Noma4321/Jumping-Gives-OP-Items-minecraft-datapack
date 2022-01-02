@@ -1,0 +1,1 @@
+scoreboard objectives add give_items minecraft.custom:minecraft.jump
